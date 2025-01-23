@@ -52,11 +52,53 @@ Desenvolver um Sistema de Gestão de Benefícios e Contribuintes, onde seja poss
 
 ---
 ## Percurso
-1) Estrutura Inicial do Banco de Dados no PostgreSQL
+1) Criação do Projeto ASP.NET Core MVC:
 
-   1.1) Criar as Tabelas "Benefícios" e "Contribuintes" mantendo o id como chave primária (Script está nos arquivos)
+   1.1) Uso do Visual Studio para criar um projeto baseado em ASP.NET Core MVC.
 
-   1.2) Popular as tabelas com dados fictícios gerados por IA 
+   1.2) Configuração do Entity Framework Core com o PostgreSQL para o gerenciamento do banco de dados.
+   
+2) Configuração do Banco de Dados:
+   
+   2.1) Criar as Tabelas "Benefícios" e "Contribuintes" mantendo o id como chave primária (Script está nos arquivos).
+
+   2.2) Definição das relações entre as tabelas.
+
+   2.3) Configuração da conexão com o banco no arquivo appsettings.json e em Program.cs.
+
+   2.4) População das tabelas com dados fictícios gerados por IA.
+
+   2.5) Migração do Banco de Dados utilizando Update-Database.
+
+3) Desenvolvimento das Models
+
+   3.1) Criação das Classes "Contribuintes" e "Beneficios".
+
+   3.2) Criação de enum para representar os diferentes regimes tributários e as opções de benefícios.
+
+   3.3) Validação com Data Annotations, como  [Required], [StringLength] e [Range] nas propriedades para garantir a consistência dos dados.
+
+   3.4) Internacionalização: exibir mensagens de validação em português utilizando arquivos.resx.
+
+4) Criação dos Controllers
+
+   4.1) "BeneficioController" e "ContribuinteControllers" com as ações: Index, Create, Edit e Delete.
+
+5) Criação das Views
+
+   5.1) Configuração do Layout Geral.
+
+   5.2) Definição do layout base com navegação e links de retorno, utilizando classes Bootstrap.
+
+6) Enumeração como Checkbox
+
+7) Criação de Funcionalidades Específicas:
+
+   7.1) Atualização dinâmica com o banco de dados.
+   
+   7.2) Formatação de dados
+
+   7.3) Adição de botões dinâmicos
 
 ---
 ## Consultas Realizadas
