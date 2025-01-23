@@ -118,7 +118,6 @@ Desenvolver um Sistema de Gestão de Benefícios e Contribuintes, onde seja poss
 ---
 ## Dificuldades Encontradas
 
-1) Por ser a 1ª vez utilizando a linguagem C# e o ASP.NET encontrei dificuldade pois não é algo que eu estou familiarizada.
+1) Por ser a primeira vez utilizando a linguagem C# e o ASP.NET encontrei dificuldade pois não é algo que eu estou familiarizada.
 2) Encontrei dificuldade em passar o "Seleção de Benefícios" para a checkbox, tentei utilizar Razor para fazer o checkbox porém vi que não conseguiria entregar dentro do prazo combinado, portanto optei por deixar em "View Bag".
-3) Não fiz a 3ª atividade (Simulação de Pagamento) pois vi que não conseguiria entregar dentro do prazo.
-4) Atualizar a quantidade de contribuintes vinculados ao benefício sem que fosse necessário atualizar o banco de dados primeiramente.
+3) Atualizar a quantidade de contribuintes vinculados ao benefício sem que fosse necessário atualizar primeiramente o banco de dados dentro do PostgreSQL.
