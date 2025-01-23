@@ -113,3 +113,12 @@ Desenvolver um Sistema de Gestão de Benefícios e Contribuintes, onde seja poss
 [Want to learn and master C#?](https://exercism.org/tracks/csharp)
 
 [C#:criando sua primeira aplicação](https://cursos.alura.com.br/course/csharp-criando-primeira-aplicacao)
+
+
+---
+## Dificuldades Encontradas
+
+1) Por ser a 1ª vez utilizando a linguagem C# e o ASP.NET encontrei dificuldade pois não é algo que eu estou familiarizada.
+2) Encontrei dificuldade em passar o "Seleção de Benefícios" para a checkbox, portanto como o prazo estava finalizando, optei por deixar em "View Bag".
+3) Tentei utilizar Razor para fazer o checkbox do "Seleção de Benefícios" porém vi que não conseguiria entregar dentro do prazo combinado.
+4) Não fiz a 3ª atividade (Simulação de Pagamento) pois como vi que não iria conseguir fazer de forma apresentável até o final do prazo.
