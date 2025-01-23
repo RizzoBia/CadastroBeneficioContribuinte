@@ -60,9 +60,14 @@ Desenvolver um Sistema de Gestão de Benefícios e Contribuintes, onde seja poss
 
 ---
 ## Consultas Realizadas
-https://learn.microsoft.com/pt-br/aspnet/core/data/ef-mvc/crud?view=aspnetcore-9.0
-https://medium.com/@ravipatel.it/asp-net-core-mvc-crud-operations-with-product-example-for-absolute-beginners-in-net-8-b012700c8cf6
-https://learn.microsoft.com/en-us/dotnet/core/extensions/work-with-resx-files-programmatically
-https://stackoverflow.com/questions/1820912/using-resx-files-for-global-application-messages
-https://exercism.org/tracks/csharp
-https://cursos.alura.com.br/course/csharp-criando-primeira-aplicacao
+[Tutorial: Implementar a funcionalidade CRUD – ASP.NET MVC com EF Core](https://learn.microsoft.com/pt-br/aspnet/core/data/ef-mvc/crud?view=aspnetcore-9.0)
+
+[ASP.NET Core MVC CRUD Operations with Product Example](https://medium.com/@ravipatel.it/asp-net-core-mvc-crud-operations-with-product-example-for-absolute-beginners-in-net-8-b012700c8cf6)
+
+[Work with .resx files programmatically](https://learn.microsoft.com/en-us/dotnet/core/extensions/work-with-resx-files-programmatically)
+
+[Using .Resx files for global application messages?](https://stackoverflow.com/questions/1820912/using-resx-files-for-global-application-messages)
+
+[Want to learn and master C#?](https://exercism.org/tracks/csharp)
+
+[C#:criando sua primeira aplicação](https://cursos.alura.com.br/course/csharp-criando-primeira-aplicacao)
